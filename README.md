@@ -10,5 +10,4 @@ just one hello-world repository
 
 so there are some differences from master.
 
-ddd
-ddddd
+
